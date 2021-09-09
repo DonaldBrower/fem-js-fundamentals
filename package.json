@@ -1,0 +1,16 @@
+{
+  "name": "js-fundamentals-to-functional",
+  "version": "1.0.0",
+  "description": "the one true project",
+  "main": "contains.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
